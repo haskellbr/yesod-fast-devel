@@ -1,5 +1,5 @@
 name: yesod-fast-devel
-version: '0.1.0.0'
+version: '0.1.1.0'
 synopsis: Fast live-reloading for yesod applications.
 category: Development
 author: Arne Link, Pedro Tacla Yamada
