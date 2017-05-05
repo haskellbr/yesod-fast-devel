@@ -3,7 +3,7 @@
 -- see: https://github.com/sol/hpack
 
 name:           yesod-fast-devel
-version:        0.1.1.0
+version:        0.1.2.0
 synopsis:       Fast live-reloading for yesod applications.
 description:    https://github.com/haskellbr/yesod-fast-devel
 license:        BSD3
