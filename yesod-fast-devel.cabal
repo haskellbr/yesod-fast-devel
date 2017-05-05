@@ -23,6 +23,7 @@ executable yesod-fast-devel
                , directory >= 1.2.2.0
                , filepath >= 1.4.0.0
                , fsnotify >= 0.1.0.0
+               , optparse-applicative
                , process >= 1.2.0.0
                , pureMD5 >= 2.1
                , stm >= 2.1.1.0
