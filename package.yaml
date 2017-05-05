@@ -1,17 +1,18 @@
 name: yesod-fast-devel
 version: '0.1.1.0'
 synopsis: Fast live-reloading for yesod applications.
+description: https://github.com/haskellbr/yesod-fast-devel
 category: Development
 author: Arne Link, Pedro Tacla Yamada
 maintainer: tacla.yamada@gmail.com
 license: BSD3
+github: haskellbr/yesod-fast-devel
 
 default-extensions:
 - OverloadedStrings
 - LambdaCase
 
 ghc-options:
-- -O2
 - -threaded
 
 dependencies:
@@ -37,5 +38,3 @@ executables:
 data-files:
 - PatchedDevelMain.hs
 - OriginalDevelMain.hs
-
-tested-with: ghc >=7.6
